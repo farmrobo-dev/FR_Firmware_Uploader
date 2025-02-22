@@ -1,6 +1,8 @@
 from flask import Flask, request, render_template_string, jsonify
 import serial.tools.list_ports
 import subprocess
+import webbrowser
+from threading import Timer
 
 app = Flask(__name__)
 
@@ -82,6 +84,9 @@ document.addEventListener('DOMContentLoaded', checkComPortSelected);
 </html>
 """
 
+def open_browser():
+    webbrowser.open_new("http://127.0.0.1:5000")
+
 @app.route('/', methods=['GET'])
 def home():
     ports = serial.tools.list_ports.comports()
@@ -111,6 +116,6 @@ def upload():
         return jsonify(message="Upload failed."), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
-
+    Timer(1, open_browser).start()  # Open browser after 1 second
+    app.run(debug=False)  # Set debug to False for production
 # pyinstaller --onefile .\FR_Firmware_Uploader.py
