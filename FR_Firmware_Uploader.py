@@ -4,7 +4,7 @@ import subprocess
 import webbrowser
 from threading import Timer
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 TEMPLATE = """
 <!doctype html>
@@ -115,7 +115,7 @@ def upload():
     except subprocess.CalledProcessError:
         return jsonify(message="Upload failed."), 500
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     Timer(1, open_browser).start()  # Open browser after 1 second
     app.run(debug=False)  # Set debug to False for production
 # pyinstaller --onefile .\FR_Firmware_Uploader.py
