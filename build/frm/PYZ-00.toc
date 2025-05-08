@@ -1,0 +1,3062 @@
+('C:\\FR_FIRM\\build\\frm\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_ios_support',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_ios_support.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('_pyrepl.curses',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\curses.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('backports',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bcrypt',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\bcrypt\\__init__.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('chardet',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachinedict',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\codingstatemachinedict.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.johabfreq',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\johabfreq.py',
+   'PYMODULE'),
+  ('chardet.johabprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\johabprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.macromanprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\macromanprober.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.resultdict',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\resultdict.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.utf1632prober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\utf1632prober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('clr',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr.py',
+   'PYMODULE'),
+  ('clr_loader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\ffi\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.hostfxr',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\ffi\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.mono',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\ffi\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.netfx',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\ffi\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.hostfxr',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.mono',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.netfx',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.types',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\types.py',
+   'PYMODULE'),
+  ('clr_loader.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\util\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.util.clr_error',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\util\\clr_error.py',
+   'PYMODULE'),
+  ('clr_loader.util.coreclr_errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\util\\coreclr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.find',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\util\\find.py',
+   'PYMODULE'),
+  ('clr_loader.util.hostfxr_errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\util\\hostfxr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.runtime_spec',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\clr_loader\\util\\runtime_spec.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE'),
+  ('cryptography',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.decrepit.ciphers.algorithms',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\decrepit\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('h2',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\__init__.py',
+   'PYMODULE'),
+  ('h2.config',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\config.py',
+   'PYMODULE'),
+  ('h2.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\connection.py',
+   'PYMODULE'),
+  ('h2.errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\errors.py',
+   'PYMODULE'),
+  ('h2.events',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\events.py',
+   'PYMODULE'),
+  ('h2.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\exceptions.py',
+   'PYMODULE'),
+  ('h2.frame_buffer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\frame_buffer.py',
+   'PYMODULE'),
+  ('h2.settings',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\settings.py',
+   'PYMODULE'),
+  ('h2.stream',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\stream.py',
+   'PYMODULE'),
+  ('h2.utilities',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\utilities.py',
+   'PYMODULE'),
+  ('h2.windows',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\h2\\windows.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('hpack',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\__init__.py',
+   'PYMODULE'),
+  ('hpack.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\exceptions.py',
+   'PYMODULE'),
+  ('hpack.hpack',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\hpack.py',
+   'PYMODULE'),
+  ('hpack.huffman',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\huffman.py',
+   'PYMODULE'),
+  ('hpack.huffman_constants',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\huffman_constants.py',
+   'PYMODULE'),
+  ('hpack.huffman_table',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\huffman_table.py',
+   'PYMODULE'),
+  ('hpack.struct',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\struct.py',
+   'PYMODULE'),
+  ('hpack.table',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hpack\\table.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('hyperframe',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hyperframe\\__init__.py',
+   'PYMODULE'),
+  ('hyperframe.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hyperframe\\exceptions.py',
+   'PYMODULE'),
+  ('hyperframe.flags',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hyperframe\\flags.py',
+   'PYMODULE'),
+  ('hyperframe.frame',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\hyperframe\\frame.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('json',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\platform.py',
+   'PYMODULE'),
+  ('platformdirs',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pyreadline3',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.api',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\api.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.get_clipboard_text_and_convert',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\get_clipboard_text_and_convert.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.ironpython_clipboard',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.no_clipboard',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.win32_clipboard',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.console',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.console.ansi',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\ansi.py',
+   'PYMODULE'),
+  ('pyreadline3.console.console',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline3.console.event',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\event.py',
+   'PYMODULE'),
+  ('pyreadline3.console.ironpython_console',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline3.error',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\error.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.common',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\common.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.ironpython_keysyms',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.keysyms',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.winconstants',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\winconstants.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.history',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.lineobj',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.wordmatcher',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline3.logger',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.control',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\control.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.log',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\log.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.logger',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\logger.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.null_handler',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\null_handler.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.socket_stream',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\socket_stream.py',
+   'PYMODULE'),
+  ('pyreadline3.modes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.basemode',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.emacs',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.notemacs',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.vi',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline3.py3k_compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline3.rlmain',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\rlmain.py',
+   'PYMODULE'),
+  ('pyreadline3.unicode_helper',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\unicode_helper.py',
+   'PYMODULE'),
+  ('pythonnet',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pythonnet\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('readline',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\readline.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('serial',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\__init__.py',
+   'PYMODULE'),
+  ('serial.serialcli',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialcli.py',
+   'PYMODULE'),
+  ('serial.serialjava',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialjava.py',
+   'PYMODULE'),
+  ('serial.serialposix',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialposix.py',
+   'PYMODULE'),
+  ('serial.serialutil',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialutil.py',
+   'PYMODULE'),
+  ('serial.serialwin32',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\serialwin32.py',
+   'PYMODULE'),
+  ('serial.tools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\__init__.py',
+   'PYMODULE'),
+  ('serial.tools.list_ports',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports.py',
+   'PYMODULE'),
+  ('serial.tools.list_ports_common',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_common.py',
+   'PYMODULE'),
+  ('serial.tools.list_ports_linux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_linux.py',
+   'PYMODULE'),
+  ('serial.tools.list_ports_osx',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_osx.py',
+   'PYMODULE'),
+  ('serial.tools.list_ports_posix',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_posix.py',
+   'PYMODULE'),
+  ('serial.tools.list_ports_windows',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\tools\\list_ports_windows.py',
+   'PYMODULE'),
+  ('serial.win32',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\serial\\win32.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('socks',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('wheel',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli.convert',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('wheel.cli.pack',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('wheel.cli.tags',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('wheel.cli.unpack',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('wheel.macosx_libfile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('wheel.metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('wheel.util',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\util.py',
+   'PYMODULE'),
+  ('wheel.vendored',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._elffile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._manylinux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._musllinux',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._parser',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._structures',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._tokenizer',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.markers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.requirements',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.specifiers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.tags',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.utils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.version',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('wheel.wheelfile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE')])
