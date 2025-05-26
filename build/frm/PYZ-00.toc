@@ -1307,6 +1307,94 @@
    'C:\\Users\\sai '
    'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
    'PYMODULE'),
+  ('importlib_metadata',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py311',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py39',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('importlib_resources',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources._adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_resources._common',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('importlib_resources._functional',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib_resources._itertools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_resources.abc',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('importlib_resources.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\compat\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.compat.py39',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\compat\\py39.py',
+   'PYMODULE'),
+  ('importlib_resources.future',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\future\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.future.adapters',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\future\\adapters.py',
+   'PYMODULE'),
+  ('importlib_resources.readers',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\importlib_resources\\readers.py',
+   'PYMODULE'),
   ('inspect',
    'C:\\Users\\sai '
    'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
@@ -2199,50 +2287,6 @@
    'C:\\Users\\sai '
    'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
    'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._adapters',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._collections',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._compat',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._functools',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._itertools',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._meta',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._text',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata.compat',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata.compat.py311',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata.compat.py39',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
-   'PYMODULE'),
   ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
   ('setuptools._vendor.jaraco.context',
    'C:\\Users\\sai '
@@ -2335,22 +2379,6 @@
   ('setuptools._vendor.tomli._types',
    'C:\\Users\\sai '
    'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
-   'PYMODULE'),
-  ('setuptools._vendor.zipp',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.zipp.compat',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.zipp.compat.py310',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
-   'PYMODULE'),
-  ('setuptools._vendor.zipp.glob',
-   'C:\\Users\\sai '
-   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
    'PYMODULE'),
   ('setuptools.archive_util',
    'C:\\Users\\sai '
@@ -3059,4 +3087,36 @@
   ('zipimport',
    'C:\\Users\\sai '
    'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp._functools',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zipp\\_functools.py',
+   'PYMODULE'),
+  ('zipp.compat',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat.overlay',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zipp\\compat\\overlay.py',
+   'PYMODULE'),
+  ('zipp.compat.py310',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zipp\\glob.py',
+   'PYMODULE'),
+  ('zstandard',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zstandard\\__init__.py',
+   'PYMODULE'),
+  ('zstandard.backend_cffi',
+   'C:\\Users\\sai '
+   'kiran\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\zstandard\\backend_cffi.py',
    'PYMODULE')])
