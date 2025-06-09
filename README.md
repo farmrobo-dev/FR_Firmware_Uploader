@@ -2,92 +2,113 @@
 
 ## Overview
 
-**FR Firmware Uploader** is a tool designed to simplify the process of uploading firmware to embedded devices. It provides a user-friendly interface and automates many of the steps required for firmware deployment, making it easier for developers and engineers to manage firmware updates.
+**FR Firmware Uploader** is a cross-platform tool for managing and uploading firmware to FarmRobo and similar embedded devices. It provides a graphical interface for selecting firmware versions, downloading the latest releases from GitHub, and uploading firmware to devices via serial (COM) ports. The tool is designed to simplify firmware management for developers, testers, and field engineers.
+
+---
 
 ## Features
 
-- Upload firmware binaries to supported devices
-- Organize and manage multiple firmware versions
-- Automated build and deployment process
-- Support for various device types (e.g., CAN BMS, analog temp test, etc.)
-- Clean build and distribution directories
+- **Download Latest Firmware:** Fetches the latest firmware release directly from the official GitHub repository.
+- **Version Management:** Displays both the current local firmware version and the latest available version.
+- **Device Selection:** Choose device configuration (R1-TEMP, R1-TOOLS, R1-ACTUATOR) and COM port for upload.
+- **Custom Firmware Upload:** Supports uploading user-selected firmware binaries.
+- **Serial Monitor:** Built-in serial monitor with selectable baud rate, line ending, and view mode (text/hex), plus timestamping.
+- **Logging:** Real-time log output for all actions and errors.
+- **Multi-Tab UI:** Separate tabs for standard firmware upload and custom firmware upload.
 
-## Project Structure
+---
+
+## Folder Structure
 
 ```
 FR_Firmware_Uploader/
-├── .gitignore
-├── build/
-│   └── frm/
-│       ├── EXE-00.toc
-│       ├── Analysis-00.toc
-│       ├── PKG-00.toc
-│       └── ...
-├── dist/
-│   └── bin/
-│       ├── CAN_BMS.ino.bin
-│       ├── analog_temp_test.ino.bin
-│       └── ...
-└── ...
+├── bin/                  # Downloaded and local firmware binaries
+│   ├── R1-IT-CAN-BTS.bin
+│   └── ...               # Other firmware files
+├── win/
+│   └── massStorageCopy.bat   # Batch script for uploading firmware (Windows)
+├── frm.py                # Main application (Tkinter GUI)
+├── requirements.txt       # Python dependencies
+├── README.md              # This file
+└── ...                    # Other files (build scripts, configs, etc.)
 ```
 
-- **.gitignore**: Specifies files and directories to be ignored by Git (e.g., build artifacts, binaries).
-- **build/**: Contains intermediate build files and metadata generated during the build process.
-- **dist/bin/**: Stores the compiled firmware binaries ready for upload.
+---
 
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.13 or later
-- Required Python packages (see `requirements.txt` if available)
-- Supported embedded device(s)
+- **Python 3.8+** (Tested on Python 3.10+)
+- **pip** (Python package manager)
+- **Windows** (batch upload script is Windows-specific, but core logic is cross-platform)
+- **GitHub access** (for downloading latest firmware releases)
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/FR_Firmware_Uploader.git
+    git clone https://github.com/farmrobo-dev/FR_Firmware_Uploader.git
     cd FR_Firmware_Uploader
     ```
 
-2. (Optional) Create and activate a virtual environment:
+2. **(OPTIONAL) Create a virtual environment:**
     ```sh
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    venv\Scripts\activate  # On Windows
     ```
 
-3. Install dependencies:
+3. **Install dependencies:**
     ```sh
     pip install -r requirements.txt
     ```
 
 ### Usage
 
-1. Place your firmware binary files in the `dist/bin/` directory.
-2. Run the uploader tool (replace with the actual command or script name):
+1. **Run the application:**
     ```sh
-    python uploader.py --file dist/bin/your_firmware.bin --device <device_port>
+    python frm.py
     ```
-3. Follow on-screen instructions to complete the upload.
 
-### Cleaning Build Artifacts
+2. **Main Tab:**
+    - Click **Check for Updates** to see if a new firmware is available.
+    - Click **Download Latest Release** to fetch the newest firmware from GitHub.
+    - Select device configuration and COM port.
+    - Click **Upload Selected Firmware** to flash the device.
 
-To remove build artifacts and binaries, use:
-```sh
-rm -rf build/ dist/
-```
-Or use the provided clean script if available.
+3. **Custom Upload Tab:**
+    - Browse and select any `.bin` firmware file.
+    - Select COM port and upload.
+
+4. **Serial Monitor:**
+    - Use the built-in monitor to view device output, change baud rate, and toggle timestamping.
+
+---
+
+## Notes
+
+- **Firmware Folder:** Downloaded firmware is stored in the `bin/` directory.
+- **Batch Script:** Firmware upload uses `win/massStorageCopy.bat` (ensure this script exists and is executable).
+- **COM Ports:** The tool auto-detects available serial ports; refresh as needed.
+- **Logging:** All actions and errors are logged in the GUI for troubleshooting.
+
+---
 
 ## Contributing
 
-Contributions are welcome! Please open issues or submit pull requests for bug fixes, new features, or improvements.
+Pull requests and issues are welcome! Please follow standard Python style and document any new features.
+
+---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
 
 ## Acknowledgements
 
-- Python community and open-source contributors
-- Device manufacturers for documentation and support
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) for GUI
+- [PySerial](https://pyserial.readthedocs.io/) for serial communication
+- [Requests](https://docs.python-requests.org/) for GitHub API access
+- FarmRobo community and contributors
