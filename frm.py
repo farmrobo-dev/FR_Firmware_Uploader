@@ -25,8 +25,8 @@ def get_local_version():
                 return f.read().strip()
     except Exception as e:
         log_message(f"Error reading local version: {e}")
-        return "v1.0.0"
-    return "v1.0.0"
+        return "v0.0.0"
+    return "v0.0.0"
 
 def get_latest_firmware_version():
     """Fetches the latest firmware version and assets from GitHub."""
@@ -488,7 +488,7 @@ download_button = ttk.Button(
     main_content_tab1, text="Download Latest Release", command=download_latest_release
 )
 download_button.grid(row=2, column=0, sticky=tk.W, padx=10, pady=5)
-download_button.config(state=tk.DISABLED)  # Initially disabled
+#download_button.config(state=tk.DISABLED)  # Initially disabled
 
 # --- R1-TEMP Dropdowns ---
 r1_temp_label = ttk.Label(main_content_tab1, text="R1-TEMP:")
