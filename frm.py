@@ -243,6 +243,8 @@ class SerialMonitor(ttk.Frame):
         self.log_text = log_text_widget  # Store the log text widget
         self.parent = parent
         self.all_log_texts = all_log_texts  # Store references to all log text widgets
+        self.receiving_data = False  # Control flag to prevent flickering
+        self.auto_scroll = True # Enables autoscroll by default
 
         # --- Configuration Frame ---
         config_frame = ttk.Frame(self)
@@ -306,12 +308,19 @@ class SerialMonitor(ttk.Frame):
         self.line_ending_dropdown.set("None")
 
         # Text Area for Serial Output
-        self.serial_text = scrolledtext.ScrolledText(self, wrap=tk.WORD, width=80, height=20)
-        self.serial_text.pack(padx=5, pady=5, fill=tk.BOTH, expand=True)
+        self.serial_text = scrolledtext.ScrolledText(self, wrap=tk.NONE, width=80, height=20, state=tk.DISABLED)  # wrap=tk.NONE for single line
+        # Disable initially
+
+        # Add horizontal scrollbar
+        self.x_scrollbar = ttk.Scrollbar(self, orient=tk.HORIZONTAL, command=self.serial_text.xview)
+        self.y_scrollbar = ttk.Scrollbar(self, orient=tk.VERTICAL, command=self.serial_text.yview) # Add the Y scrollbar
+
+        # Configure scrollbars to work together
+        self.serial_text.configure(xscrollcommand=self.x_scrollbar.set, yscrollcommand=self.y_scrollbar.set)
+
 
         # Buttons Frame (for Start Monitoring, Refresh Ports, Clear)
         buttons_frame = ttk.Frame(self)
-        buttons_frame.pack(fill=tk.X, pady=5)
 
         self.start_stop_button = ttk.Button(
             buttons_frame, text="Start Monitoring", command=self.toggle_monitoring, width=15
@@ -326,13 +335,31 @@ class SerialMonitor(ttk.Frame):
         self.clear_button = ttk.Button(buttons_frame, text="Clear", command=self.clear_serial_text, width=15)
         self.clear_button.grid(row=0, column=2, padx=5, pady=5, sticky=tk.W + tk.E)
 
+        self.autoscroll_var = tk.BooleanVar(value=True)
+        self.autoscroll_check = ttk.Checkbutton(buttons_frame, text="Autoscroll", variable=self.autoscroll_var, command=self.toggle_autoscroll)
+        self.autoscroll_check.grid(row=0, column=3, padx=5, pady=5, sticky=tk.W)
+
         buttons_frame.grid_columnconfigure(0, weight=1)
         buttons_frame.grid_columnconfigure(1, weight=1)
         buttons_frame.grid_columnconfigure(2, weight=1)
+        buttons_frame.grid_columnconfigure(3, weight=1)
+
+
+        # Pack widgets in the correct order
+        self.x_scrollbar.pack(side=tk.BOTTOM, fill=tk.X)
+        self.y_scrollbar.pack(side=tk.RIGHT, fill=tk.Y) # Add this line
+        buttons_frame.pack(fill=tk.X, pady=5)
+        self.serial_text.pack(padx=5, pady=5, fill=tk.BOTH, expand=True)
+        self.serial_text.configure(xscrollcommand=self.x_scrollbar.set, yscrollcommand=self.y_scrollbar.set)  # Configure the scrollbar
+
+    def toggle_autoscroll(self):
+        self.auto_scroll = self.autoscroll_var.get() # Updates the autoscroll flag
 
     def clear_serial_text(self):
         """Clears the serial monitor text area."""
+        self.serial_text.config(state=tk.NORMAL)  # Enable temporarily to clear
         self.serial_text.delete("1.0", tk.END)
+        self.serial_text.config(state=tk.DISABLED)  # Disable again
 
     def refresh_ports(self):
         """Refreshes the list of available COM ports."""
@@ -355,11 +382,17 @@ class SerialMonitor(ttk.Frame):
         port_name = self.port_dropdown.get()
         baud_rate = int(self.baud_rate_dropdown.get())
         try:
-            self.serial_connection = serial.Serial(port_name, baud_rate, timeout=0.1)
+            self.serial_connection = serial.Serial(port_name, baud_rate, timeout=0.05)  # Reduced timeout
             self.is_monitoring = True
+            self.receiving_data = False
             self.start_stop_button.config(text="Stop Monitoring")
             self.log_message(f"Monitoring serial port {port_name} at {baud_rate} baud.")
+
+            # Disable scrollbar during monitoring
+            # self.x_scrollbar.config(command="")
+            self.serial_text.config(state=tk.NORMAL) #enable text before monitoring
             self.read_serial_data()
+
         except serial.SerialException as e:
             self.log_message(f"Error opening serial port: {e}")
         except Exception as e:
@@ -369,10 +402,15 @@ class SerialMonitor(ttk.Frame):
         """Stops monitoring the serial port."""
         if self.serial_connection:
             try:
-                self.serial_connection.close()
                 self.is_monitoring = False
                 self.start_stop_button.config(text="Start Monitoring")
+                self.serial_connection.close()
                 self.log_message(f"---- Closed the serial port {self.port_dropdown.get()} ----")
+
+                # Enable scrollbar after stopping monitoring
+                # self.x_scrollbar.config(command=self.serial_text.xview)
+                self.serial_text.config(state=tk.DISABLED)  # Disable after stopping
+
             except serial.SerialException as e:
                 self.log_message(f"Error closing serial port: {e}")
         else:
@@ -382,16 +420,19 @@ class SerialMonitor(ttk.Frame):
         """Reads data from the serial port and updates the text area."""
         if self.is_monitoring and self.serial_connection:
             try:
-                data = self.serial_connection.read(self.serial_connection.in_waiting)
-                if data:
-                    self.process_data(data)
+                if not self.receiving_data:
+                    self.receiving_data = True
+                    data = self.serial_connection.read(self.serial_connection.in_waiting)
+                    if data:
+                        self.process_data(data)
+                    self.receiving_data = False
             except serial.SerialException as e:
                 self.log_message(f"Error reading from serial port: {e}")
                 self.stop_monitoring()
             except Exception as e:
                 self.log_message(f"An unexpected error occurred: {e}")
                 self.stop_monitoring()
-        self.after(10, self.read_serial_data)
+        self.after(10, self.read_serial_data)  # Faster polling
 
     def process_data(self, data):
         """Processes the received data based on the view mode."""
@@ -414,8 +455,11 @@ class SerialMonitor(ttk.Frame):
 
             # Update all serial text widgets
             for log_text in self.all_log_texts:
+                log_text.serial_text.config(state=tk.NORMAL) #enable
                 log_text.serial_text.insert(tk.END, text)
-                log_text.serial_text.see(tk.END)
+                if self.auto_scroll:
+                    log_text.serial_text.see(tk.END)  # Autoscroll to the end
+                log_text.serial_text.config(state=tk.DISABLED) #disable
             # self.serial_text.insert(tk.END, text)
             # self.serial_text.see(tk.END)
         except Exception as e:
@@ -444,7 +488,7 @@ class SerialMonitor(ttk.Frame):
 # --- GUI Setup ---
 root = tk.Tk()
 root.title("FR Firmware Uploader")
-root.state("zoomed")
+root.state("zoomed")  # maxmize window
 
 # Style
 style = ttk.Style()
@@ -507,7 +551,6 @@ serial_monitor_tab2.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
 all_log_texts.append(serial_monitor_tab1)
 all_log_texts.append(serial_monitor_tab2)
-
 
 # Current Firmware Version
 current_version = get_local_version()
@@ -578,7 +621,6 @@ upload_custom_button = ttk.Button(
     main_content_tab2, text="Upload Custom Firmware", command=upload_custom_firmware_threaded, width=25)
 upload_custom_button.pack(pady=5)
 
-
 notebook.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
 
@@ -597,6 +639,7 @@ def log_message(message):
         tab2.update_idletasks()
     else:
         print("No active tab to log to.")
+
 
 
 # --- Main ---
@@ -638,5 +681,5 @@ if __name__ == "__main__":
                 "Without the serial module, serial communication will not be possible.",
             )
 
-    log_text = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=60, height=5)
+    log_text = scrolledtext.ScrolledText(root, wrap=tk.WORD, width=100, height=5)
     root.mainloop()

@@ -25,3 +25,4 @@ bin/CAN_BMS.ino.bin
 bin/bumper_test.ino.bin
 bin/bts7960_test.ino.bin
 bin/analog_temp_test.ino.bin
+*.bin
